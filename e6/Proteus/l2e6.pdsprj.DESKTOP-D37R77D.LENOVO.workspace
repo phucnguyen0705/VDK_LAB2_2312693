@@ -359,10 +359,10 @@
      <ITEM name="nItems">0</ITEM>
     </PROPERTIES>
    </POPUP>
-   <POPUP w="226" x="821" flags="00000008" y="831" h="182" pid="102" iid="3">
+   <POPUP w="30" x="821" flags="00000008" y="831" h="13" pid="102" iid="3">
     <PROPERTIES/>
    </POPUP>
-   <POPUP w="170" x="841" flags="00000008" y="851" h="237" pid="191" iid="3">
+   <POPUP w="22" x="841" flags="00000008" y="851" h="18" pid="191" iid="3">
     <PROPERTIES/>
    </POPUP>
   </PWI>

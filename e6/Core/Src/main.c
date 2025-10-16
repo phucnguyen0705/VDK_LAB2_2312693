@@ -108,7 +108,7 @@ void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef *htim)
     }
 }
 int main(void)
-{ int hour = 15, minute = 8, second = 50;
+{
   HAL_Init();
   SystemClock_Config();
   MX_GPIO_Init();
