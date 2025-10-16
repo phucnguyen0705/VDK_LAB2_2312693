@@ -138,8 +138,6 @@ int main(void){
   MX_GPIO_Init();
   MX_TIM2_Init();
   HAL_TIM_Base_Start_IT(&htim2);
-
-  int hour =15, minute = 8, second = 50;
   while (1)
   {
     second++;
